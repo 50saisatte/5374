@@ -1,6 +1,6 @@
 label,sublabel,description,styles,bgcolor
-不燃有害危険ごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#bbe400
+不燃有害危険ごみ,,,,#733b96
+資源,,,,#bbe400
 もやせるごみ,,,img/moyasu02.svg,#ea3b13
 リサイクル,,,,#2dc7aa
 粗大ごみ,,,,#999999
