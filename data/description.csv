@@ -1,7 +1,7 @@
 label,sublabel,description,styles,bgcolor
-不燃有害危険ごみ,,,,#733b96
-資源,,,,#bbe400
-もやせるごみ,,,img/moyasu02.svg,#ea3b13
-リサイクル,,,,#2dc7aa
+燃やせない・有害・危険ごみ,,,,#733b96
+紙・布,,,,#bbe400
+燃やせるごみ,,,img/moyasu02.svg,#ea3b13
+かん・びん・ペットボトル,,,,#2dc7aa
 粗大ごみ,,,,#999999
 その他プラ,,,,#08b925
