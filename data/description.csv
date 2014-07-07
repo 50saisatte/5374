@@ -1,7 +1,7 @@
 label,sublabel,description,styles,bgcolor
-燃やせない・有害・危険ごみ,,,,#733b96
-紙・布,,,,#bbe400
-燃やせるごみ,,,img/moyasu02.svg,#ea3b13
-かん・びん・ペットボトル,,,,#2dc7aa
-粗大ごみ,,,,#999999
-その他プラ,,,,#08b925
+燃やせない・有害・危険ごみ,,,img/moyasenai.svg,#733b96
+紙・布,,,img/kaminuno.svg,#bbe400
+燃やせるごみ,,,img/moyaseru.svg,#ea3b13
+かん・びん・ペットボトル,,,img/kan.svg,#2dc7aa
+粗大ごみ,,,img/sodai.svg,#999999
+その他プラ,,,img/sonota.svg,#08b925
