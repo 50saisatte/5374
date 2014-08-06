@@ -25,13 +25,13 @@ a.accordion-toggle-top{
 }
 
 #accordion3 h2{
-	/*---------25------------------------------------------------------------------------------------- */	
-	font-size: 50px;
+	font-size: 25px;
 	margin-top: 40px;
 }
 
 #accordion3 #cfi{
-	border-top: 1px solid black;
+	/*---------------1------------------------------------------------------------------------------- */
+	border-top: 3px solid black;
 }
 
 #accordion3 #cfk{
