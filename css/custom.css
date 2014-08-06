@@ -69,7 +69,7 @@ a.accordion-toggle-top:hover{
 /**/
 .accordion-group-top{background-color:  #ffffff;}
 /* ゴミの種類の色 */
-.accordion-inner ul {color:#000000;}
+.accordion-inner ul {color:#666666;}
 
 #accordion2 {display: none;}
 #accordion2 .accordion-inner {text-align: center}
@@ -109,7 +109,7 @@ a,a:hover{
 }
 /*  あいうえおの色   */
 .initials {
-	color: #000000;
+	color: #ffffff;
 }
 .note{
 	/* 備考の文字サイズ */
