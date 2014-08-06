@@ -39,13 +39,13 @@ a.accordion-toggle-top{
 
 #accordion3 h3{
 	font-weight: bold;
-	/*-----------16----------------------------------------------------------------------------------- */
-	font-size: 40px;
+	font-size: 16px;
 	margin-top: 15px;
 }
 
 #accordion3 #caption{
-	font-size: 12px;
+	/*-----------------------------12----------------------------------------------------------------- */
+	font-size: 40px;
 	color: #7F7F7F;
 	margin-top:30px;
 }
