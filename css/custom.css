@@ -37,10 +37,9 @@ a.accordion-toggle-top{
 	border-top: 1px solid black;
 }
 
-	/*-----------moto16----------------------------------------------------------------------------------- */
 #accordion3 h3{
 	font-weight: bold;
-	font-size: 40px;
+	font-size: 16px;
 	margin-top: 15px;
 }
 
@@ -115,7 +114,8 @@ a,a:hover{
 	font-size: 10px;
 }
 #help{
-	margin-left: 5px;
+		/*------5---------------------------------------------------------------------------------------- */
+	margin-left: 20px;
 }
 #select_area_title{
 	text-align: center;
