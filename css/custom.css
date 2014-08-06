@@ -34,8 +34,7 @@ a.accordion-toggle-top{
 }
 
 #accordion3 #cfk{
-	/*------1---------------------------------------------------------------------------------------- */
-	border-top: 3px solid black;
+	border-top: 1px solid black;
 }
 
 #accordion3 h3{
@@ -86,6 +85,7 @@ a.accordion-toggle-top:hover{
        padding-left: 10px;
 }
 a,a:hover{	
+	 font-size: 3.7em;
 	color: white;
 	text-decoration: none;
 }
