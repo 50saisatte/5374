@@ -78,8 +78,8 @@ a.accordion-toggle-top:hover{
 #gps_area {margin-top: 5px;}
 
 .left-day{
-		/*------------------------1.5---------------------------------------------------------------------- */
-       font-size: 3.5em;
+	/* 今日明日明後日とか */
+       font-size: 1.5em;
        color: white;
        position: absolute;
        padding-left: 10px;
@@ -93,7 +93,8 @@ a,a:hover{
 	vertical-align: middle;
 	text-align: center;
 	width: 80%;
-	font-size: 24px;
+		/*---------24------------------------------------------------------------------------------------- */
+	font-size: 40px;
 	/*font-weight: bold;*/
 
 }
