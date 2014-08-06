@@ -105,9 +105,9 @@ a,a:hover{
 .accordion-group h6{
 	position:absolute;bottom:0px;left:10px;margin:0;
 }
-
+/*  あいうえおの色   */
 .initials {
-	color: #ffffff;
+	color: #000000;
 }
 .note{
 	font-size: 10px;
