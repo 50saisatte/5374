@@ -30,12 +30,12 @@ a.accordion-toggle-top{
 }
 
 #accordion3 #cfi{
-	/*---------------1------------------------------------------------------------------------------- */
-	border-top: 3px solid black;
+	border-top: 1px solid black;
 }
 
 #accordion3 #cfk{
-	border-top: 1px solid black;
+	/*------1---------------------------------------------------------------------------------------- */
+	border-top: 3px solid black;
 }
 
 #accordion3 h3{
