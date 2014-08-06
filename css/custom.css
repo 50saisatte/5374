@@ -18,8 +18,8 @@ font-family:".HiraKakuInterface-W1",'Lucida Grande',
 a.accordion-toggle-top{
 	margin: 0;
 	text-align: left;
-	/*---------------------------------------------------------------------------------------------- */
-	font-size: 40px;
+	/* 地域選択の下の・○○の部分  */
+	font-size: 22px;
 	margin: 15px 0 15px 15px;
 
 }
@@ -37,9 +37,10 @@ a.accordion-toggle-top{
 	border-top: 1px solid black;
 }
 
+	/*-----------moto16----------------------------------------------------------------------------------- */
 #accordion3 h3{
 	font-weight: bold;
-	font-size: 16px;
+	font-size: 20px;
 	margin-top: 15px;
 }
 
