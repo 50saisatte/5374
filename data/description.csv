@@ -1,7 +1,7 @@
 label,sublabel,description,styles,bgcolor
 燃えるごみ,,,img/01moerugomi.svg,#ff9f37
 不燃ごみ,,,img/02hunengomi.svg,#A082F2
-資源物（紙類）,,,img/03sigen_kami.svg,#90ee90
+資源物（紙類）,,,img/03sigen_kami.svg,#bbe400
 資源物（ペットボトルの日）,,,img/06sigen_pet.svg,#58FAAC
 資源物（ビンの日）,,,img/04sigen_bin.svg,#58D3F7
 資源物（カンの日）,,,img/05sigen_kan.svg,#75F4D0
