@@ -91,7 +91,7 @@ var TrashModel = function(_lable, _cell, remarks) {
     } else if (this.dayCell[j].length == 2 && this.dayCell[j].substr(0,1) == "*") {
     } else {  // 不定期回収の場合（YYYYMMDD指定）
       result_text = "週替わりの収集日 ";
-      this.regularFlg = 1;  // 定期回収フラグオフ：オンは　1　:オフは  0
+      this.regularFlg = 0;  // 定期回収フラグオフ：オンは　1　:オフは  0
     }
   }
   this.dayLabel = result_text;
